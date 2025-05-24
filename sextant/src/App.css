@@ -69,3 +69,17 @@
 .exhibit-content {
   margin-top: 15px;
 }
+.error{
+  color: red;
+}
+.ip{
+  color: rgb(75, 68, 68);
+  font-size: larger;
+}
+.loading{
+  color: rgb(75, 68, 68);
+}
+.ipversion{
+  font-size: larger;
+  font-weight: bolder;
+}
